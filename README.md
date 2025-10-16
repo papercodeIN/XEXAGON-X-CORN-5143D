@@ -21,11 +21,11 @@
 
 <h2 align = "center">🌟Company Details for Purchase🌟</h2>
 
-📢Company : Xexagon
-🗺Address : 209,2nd Floor, Global Business Park, Near Safari Hotel, S P Ring Road,Odhav, Ahmedabad - 382415.
-📞Mobile : +91-8866473323
-🌐Website (Buy online) : https://xexagon.co.in/
-💼XCORN 5143D product Link: https://xexagon.co.in/shop/product/x-corn-5143-d-x-corn-5143-d-926#attr=
+- 📢Company : Xexagon
+- 🗺Address : 209,2nd Floor, Global Business Park, Near Safari Hotel, S P Ring Road,Odhav, Ahmedabad - 382415.
+- 📞Mobile : +91-8866473323
+- 🌐Website (Buy online) : https://xexagon.co.in/
+- 💼XCORN 5143D product Link: https://xexagon.co.in/shop/product/x-corn-5143-d-x-corn-5143-d-926#attr=
 
 ---
 
